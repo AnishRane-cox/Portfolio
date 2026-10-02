@@ -1,5 +1,11 @@
 [
  {
+  "title": "Activation Functions Explained: The Tiny Switch That Makes Neural Networks Smart",
+  "date": "2026-10-01",
+  "url": "https://mlaiinsightshub.blog/activation-functions-explained-for-beginners/",
+  "tag": "Machine Learning"
+ },
+ {
   "title": "Complete Guide to Fine-Tuning LLMs: From Prompt-Tuning to RLHF for Smarter AI",
   "date": "2026-03-27",
   "url": "https://mlaiinsightshub.blog/fine-tuning-llms-complete-guide/",
@@ -28,11 +34,5 @@
   "date": "2025-11-26",
   "url": "https://mlaiinsightshub.blog/history-of-programming-ada-lovelace-to-ai/",
   "tag": "Machine Learning"
- },
- {
-  "title": "How Diesel Engines Work: The Ultimate Engineering Guide",
-  "date": "2025-11-25",
-  "url": "https://mlaiinsightshub.blog/how-diesel-engines-work-engineering-guide/",
-  "tag": "Powertrain Engineering: Engines, Transmissions & Drivetrain Technology"
  }
 ]
