@@ -1,5 +1,11 @@
 [
  {
+  "title": "Can AI Replace Engine Testing? Machine Learning, Digital Twins and the Dyno",
+  "date": "2026-10-08",
+  "url": "https://mlaiinsightshub.blog/can-ai-replace-engine-testing/",
+  "tag": "AI Applications Across Industries"
+ },
+ {
   "title": "Python for Beginners: Install, Pick an IDE and Write Your First Program",
   "date": "2026-10-06",
   "url": "https://mlaiinsightshub.blog/python-basics-for-beginners-install-ide-first-program/",
@@ -28,11 +34,5 @@
   "date": "2026-03-10",
   "url": "https://mlaiinsightshub.blog/how-epicyclic-gears-work-guide/",
   "tag": "Mechanical Engineering & Automotive Systems"
- },
- {
-  "title": "Why Diesel Engine Duty Cycles Decide Engine Life",
-  "date": "2025-12-03",
-  "url": "https://mlaiinsightshub.blog/diesel-engine-duty-cycle-engine-life/",
-  "tag": "Powertrain Engineering: Engines, Transmissions & Drivetrain Technology"
  }
 ]
