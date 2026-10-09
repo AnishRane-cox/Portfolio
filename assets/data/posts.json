@@ -1,5 +1,11 @@
 [
  {
+  "title": "Machine Learning Roadmap for Mechanical Engineers: Step by Step",
+  "date": "2026-10-08",
+  "url": "https://mlaiinsightshub.blog/ml-roadmap-for-mechanical-engineers/",
+  "tag": "Machine Learning"
+ },
+ {
   "title": "Can AI Replace Engine Testing? Machine Learning, Digital Twins and the Dyno",
   "date": "2026-10-08",
   "url": "https://mlaiinsightshub.blog/can-ai-replace-engine-testing/",
@@ -28,11 +34,5 @@
   "date": "2026-03-24",
   "url": "https://mlaiinsightshub.blog/choosing-base-model-fine-tuning-llms/",
   "tag": "Machine Learning"
- },
- {
-  "title": "How Epicyclic Gears Work: A Complete Engineering Guide",
-  "date": "2026-03-10",
-  "url": "https://mlaiinsightshub.blog/how-epicyclic-gears-work-guide/",
-  "tag": "Mechanical Engineering & Automotive Systems"
  }
 ]
