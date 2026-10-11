@@ -1,5 +1,11 @@
 [
  {
+  "title": "Beam Deflection Calculator: Formulas, Worked Examples, Python and Excel",
+  "date": "2026-10-10",
+  "url": "https://mlaiinsightshub.blog/beam-deflection-calculator-formulas-python-excel/",
+  "tag": "Mechanical Engineering & Automotive Systems"
+ },
+ {
   "title": "Machine Learning Roadmap for Mechanical Engineers: Step by Step",
   "date": "2026-10-08",
   "url": "https://mlaiinsightshub.blog/ml-roadmap-for-mechanical-engineers/",
@@ -28,11 +34,5 @@
   "date": "2026-03-27",
   "url": "https://mlaiinsightshub.blog/fine-tuning-llms-complete-guide/",
   "tag": "Artificial Intelligence"
- },
- {
-  "title": "Choosing the Right Base Model for Fine-Tuning LLMs: Strategy Before Execution",
-  "date": "2026-03-24",
-  "url": "https://mlaiinsightshub.blog/choosing-base-model-fine-tuning-llms/",
-  "tag": "Machine Learning"
  }
 ]
