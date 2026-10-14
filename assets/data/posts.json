@@ -1,5 +1,11 @@
 [
  {
+  "title": "A Real-Life Machine Learning Problem: How Does Your Electric Car Know How Much Battery Is Left?",
+  "date": "2026-10-13",
+  "url": "https://mlaiinsightshub.blog/real-life-machine-learning-problem-ev-battery-state-of-charge/",
+  "tag": "Machine Learning"
+ },
+ {
   "title": "Beam Deflection Calculator: Formulas, Worked Examples, Python and Excel",
   "date": "2026-10-10",
   "url": "https://mlaiinsightshub.blog/beam-deflection-calculator-formulas-python-excel/",
@@ -28,11 +34,5 @@
   "date": "2026-10-01",
   "url": "https://mlaiinsightshub.blog/activation-functions-explained-for-beginners/",
   "tag": "Deep Learning"
- },
- {
-  "title": "Complete Guide to Fine-Tuning LLMs: From Prompt-Tuning to RLHF for Smarter AI",
-  "date": "2026-03-27",
-  "url": "https://mlaiinsightshub.blog/fine-tuning-llms-complete-guide/",
-  "tag": "Artificial Intelligence"
  }
 ]
