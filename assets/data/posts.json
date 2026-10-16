@@ -1,5 +1,11 @@
 [
  {
+  "title": "Go-Kart Gear Ratio: How to Calculate It, Step by Step",
+  "date": "2026-10-15",
+  "url": "https://mlaiinsightshub.blog/go-kart-powertrain-gear-ratio-explained/",
+  "tag": "Mechanical Engineering & Automotive Systems"
+ },
+ {
   "title": "A Real-Life Machine Learning Problem: How Does Your Electric Car Know How Much Battery Is Left?",
   "date": "2026-10-13",
   "url": "https://mlaiinsightshub.blog/real-life-machine-learning-problem-ev-battery-state-of-charge/",
@@ -28,11 +34,5 @@
   "date": "2026-10-06",
   "url": "https://mlaiinsightshub.blog/python-basics-for-beginners-install-ide-first-program/",
   "tag": "Machine Learning"
- },
- {
-  "title": "Activation Functions in Neural Networks: Sigmoid, Tanh, ReLU, GELU",
-  "date": "2026-10-01",
-  "url": "https://mlaiinsightshub.blog/activation-functions-explained-for-beginners/",
-  "tag": "Deep Learning"
  }
 ]
