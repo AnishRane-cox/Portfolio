@@ -1,5 +1,11 @@
 [
  {
+  "title": "Go-Kart Engineering for Beginners: How a Kart Grips, Turns and Goes Fast",
+  "date": "2026-10-20",
+  "url": "https://mlaiinsightshub.blog/go-kart-engineering-guide/",
+  "tag": "Mechanical Engineering & Automotive Systems"
+ },
+ {
   "title": "Go-Kart Gear Ratio: How to Calculate It, Step by Step",
   "date": "2026-10-15",
   "url": "https://mlaiinsightshub.blog/go-kart-powertrain-gear-ratio-explained/",
@@ -28,11 +34,5 @@
   "date": "2026-10-08",
   "url": "https://mlaiinsightshub.blog/can-ai-replace-engine-testing/",
   "tag": "AI Applications Across Industries"
- },
- {
-  "title": "Python for Beginners: Install, Pick an IDE and Write Your First Program",
-  "date": "2026-10-06",
-  "url": "https://mlaiinsightshub.blog/python-basics-for-beginners-install-ide-first-program/",
-  "tag": "Machine Learning"
  }
 ]
