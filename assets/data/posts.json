@@ -1,5 +1,11 @@
 [
  {
+  "title": "Free Machine Learning Datasets for Mechanical Engineers: 15 Sources",
+  "date": "2026-10-22",
+  "url": "https://mlaiinsightshub.blog/machine-learning-datasets-for-mechanical-engineers/",
+  "tag": "Machine Learning"
+ },
+ {
   "title": "Go-Kart Engineering for Beginners: How a Kart Grips, Turns and Goes Fast",
   "date": "2026-10-20",
   "url": "https://mlaiinsightshub.blog/go-kart-engineering-guide/",
@@ -28,11 +34,5 @@
   "date": "2026-10-08",
   "url": "https://mlaiinsightshub.blog/ml-roadmap-for-mechanical-engineers/",
   "tag": "Machine Learning"
- },
- {
-  "title": "Can AI Replace Engine Testing? Machine Learning, Digital Twins and the Dyno",
-  "date": "2026-10-08",
-  "url": "https://mlaiinsightshub.blog/can-ai-replace-engine-testing/",
-  "tag": "AI Applications Across Industries"
  }
 ]
