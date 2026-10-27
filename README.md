@@ -1,4 +1,4 @@
-# 🌐 Anish Rane — Personal Portfolio
+# Anish Rane — Personal Portfolio
 
 [![Live site](https://img.shields.io/badge/Live-anishrane--cox.github.io%2FPortfolio-1D9E75?style=flat-square&logo=githubpages&logoColor=white)](https://anishrane-cox.github.io/Portfolio/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -8,11 +8,11 @@
 
 > Portfolio of a **Generative AI & Machine Learning Engineer** — projects, experience, writing and an **in-browser neural network you can train live**. Zero frameworks, zero build step.
 
-👉 **[Visit the live site](https://anishrane-cox.github.io/Portfolio/)**
+ **[Visit the live site](https://anishrane-cox.github.io/Portfolio/)**
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - **Neural-network playground** — a small multilayer perceptron written **from scratch in JavaScript** trains in the browser and draws its decision boundary in real time (no ML libraries).
 - **Recruiter-first design** — Swiss-minimal design system generated with the [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) skill: "At a glance" facts card, impact metrics, featured case studies, WCAG-AA contrast, keyboard and reduced-motion support.
@@ -20,11 +20,11 @@
 - **Auto-updating blog feed** — a GitHub Actions workflow runs a standard-library Python script every day, pulls the latest posts from the blog's RSS feed and commits them to `posts.json`.
 - **SEO** — pre-rendered project HTML for crawlers, JSON-LD (`Person`, `ProfilePage`, `WebSite`), Open Graph/Twitter cards, canonical URL, `sitemap.xml`, `robots.txt` and a custom 404 page.
 
-## 🧭 Sections
+## Sections
 
 About · Experience · Projects · Skills · Education · Live demo (NN playground) · Writing · Contact
 
-## 🏗️ How It Works
+## How It Works
 
 ```mermaid
 flowchart LR
@@ -35,7 +35,7 @@ flowchart LR
     S -->|GitHub Pages| W[Live site]
 ```
 
-## 📁 Structure
+## Structure
 
 ```
 ├── index.html                  # Single-page site
@@ -54,7 +54,7 @@ flowchart LR
 └── .nojekyll
 ```
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/AnishRane-cox/Portfolio.git
