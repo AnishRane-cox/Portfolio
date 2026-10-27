@@ -8,7 +8,7 @@ window.PROJECTS = [
       "Reinforcement Learning",
       "LLM / RAG"
     ],
-    "icon": "🚗",
+    "icon": "car",
     "metric": "−65.6% collisions",
     "summary": "An LLM assigns driving roles offline during training, conditioning decentralised multi-agent policies with no runtime LLM latency.",
     "problem": "Autonomous vehicles must coordinate with other agents in dense, changing traffic. Calling an LLM at runtime adds latency that safety-critical driving cannot afford.",
@@ -38,7 +38,7 @@ window.PROJECTS = [
       "LLM / RAG",
       "Industrial AI"
     ],
-    "icon": "🔎",
+    "icon": "search",
     "metric": "+60% match accuracy",
     "summary": "Semantic search that matches technical engine specifications to customer requirements.",
     "problem": "Sales and engineering teams spent time manually matching customer requirements against dense technical specifications, slowing every handoff.",
@@ -64,7 +64,7 @@ window.PROJECTS = [
       "Industrial AI",
       "Deep Learning"
     ],
-    "icon": "🛠️",
+    "icon": "wrench",
     "metric": "~20% less downtime",
     "summary": "Real-time anomaly detection across 25 industrial sensors and hydraulic subsystems.",
     "problem": "Unplanned downtime on industrial equipment is costly, and failures often show up in sensor data before they become breakdowns.",
@@ -90,7 +90,7 @@ window.PROJECTS = [
       "LLM / RAG",
       "NLP"
     ],
-    "icon": "📄",
+    "icon": "file",
     "summary": "Grounded Q&A over 1,000+ policy documents with dual-stage retrieval and a citation-accuracy evaluation framework.",
     "problem": "Insurance policies are full of jargon, dense tables and scattered clauses. Customers cannot easily answer questions like “Can I surrender this policy?” or “How is a claim processed?”.",
     "approach": [
@@ -120,7 +120,7 @@ window.PROJECTS = [
       "Computer Vision",
       "Deep Learning"
     ],
-    "icon": "🩺",
+    "icon": "scan",
     "metric": "92% test accuracy",
     "summary": "TensorFlow/Keras CNN classifying 7 skin-cancer subtypes at 92% test accuracy.",
     "problem": "Early, accurate distinction between skin-cancer subtypes matters most, and is hard at scale.",
@@ -147,7 +147,7 @@ window.PROJECTS = [
       "NLP",
       "Machine Learning"
     ],
-    "icon": "📰",
+    "icon": "news",
     "metric": "91% acc · 0.906 F1",
     "summary": "Word2Vec + logistic regression pipeline reaching 91% accuracy and 0.906 F1.",
     "problem": "Misinformation spreads fast. Can the meaning of words, not just keywords, help a model separate fact from fiction?",
@@ -174,7 +174,7 @@ window.PROJECTS = [
       "Computer Vision",
       "Deep Learning"
     ],
-    "icon": "✋",
+    "icon": "hand",
     "metric": "78% val. accuracy",
     "summary": "Conv3D + ConvLSTM spatiotemporal model for video gesture classification.",
     "problem": "Human-computer interaction is moving beyond keyboards. Machines need to recognise gestures in video.",
@@ -200,7 +200,7 @@ window.PROJECTS = [
     "cats": [
       "Machine Learning"
     ],
-    "icon": "🚲",
+    "icon": "chart",
     "metric": "R² = 0.82",
     "summary": "Multiple linear regression forecasting rental demand, with VIF-based feature pruning.",
     "problem": "A rental company must predict tomorrow's demand: overstocking wastes money, understocking loses revenue.",
@@ -227,7 +227,7 @@ window.PROJECTS = [
       "Engineering + AI",
       "Tools"
     ],
-    "icon": "🌬️",
+    "icon": "wind",
     "summary": "Multi-physics simulator for air-filtration design with optimisation, reports and a Colab UI.",
     "problem": "Industrial filter design is still largely trial and error. It needs a simulation tool grounded in physics.",
     "approach": [
@@ -253,7 +253,7 @@ window.PROJECTS = [
       "LLM / RAG",
       "Tools"
     ],
-    "icon": "✈️",
+    "icon": "chat",
     "summary": "Flask chatbot combining GPT with flight and weather APIs for personalised itineraries.",
     "problem": "Planning a trip means juggling flights, hotels, weather and itineraries across many apps.",
     "approach": [
