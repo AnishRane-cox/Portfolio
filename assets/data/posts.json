@@ -1,5 +1,11 @@
 [
  {
+  "title": "Predictive Maintenance in Python: Detect Bearing Faults Step by Step",
+  "date": "2026-10-27",
+  "url": "https://mlaiinsightshub.blog/predictive-maintenance-python-bearing-fault-detection/",
+  "tag": "Machine Learning"
+ },
+ {
   "title": "Free Machine Learning Datasets for Mechanical Engineers: 15 Sources",
   "date": "2026-10-22",
   "url": "https://mlaiinsightshub.blog/machine-learning-datasets-for-mechanical-engineers/",
@@ -28,11 +34,5 @@
   "date": "2026-10-10",
   "url": "https://mlaiinsightshub.blog/beam-deflection-calculator-formulas-python-excel/",
   "tag": "Mechanical Engineering & Automotive Systems"
- },
- {
-  "title": "Machine Learning Roadmap for Mechanical Engineers: Step by Step",
-  "date": "2026-10-08",
-  "url": "https://mlaiinsightshub.blog/ml-roadmap-for-mechanical-engineers/",
-  "tag": "Machine Learning"
  }
 ]
