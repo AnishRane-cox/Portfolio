@@ -1,5 +1,11 @@
 [
  {
+  "title": "Best Free AI Tools for Mechanical Engineers (and Where They Fail)",
+  "date": "2026-10-29",
+  "url": "https://mlaiinsightshub.blog/free-ai-tools-for-mechanical-engineers/",
+  "tag": "Artificial Intelligence"
+ },
+ {
   "title": "Predictive Maintenance in Python: Detect Bearing Faults Step by Step",
   "date": "2026-10-27",
   "url": "https://mlaiinsightshub.blog/predictive-maintenance-python-bearing-fault-detection/",
@@ -28,11 +34,5 @@
   "date": "2026-10-13",
   "url": "https://mlaiinsightshub.blog/real-life-machine-learning-problem-ev-battery-state-of-charge/",
   "tag": "Machine Learning"
- },
- {
-  "title": "Beam Deflection Calculator: Formulas, Worked Examples, Python and Excel",
-  "date": "2026-10-10",
-  "url": "https://mlaiinsightshub.blog/beam-deflection-calculator-formulas-python-excel/",
-  "tag": "Mechanical Engineering & Automotive Systems"
  }
 ]
