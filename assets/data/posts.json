@@ -1,5 +1,11 @@
 [
  {
+  "title": "Heat Exchanger Types and Sizing: Shell-and-Tube, Plate, LMTD and NTU",
+  "date": "2026-11-12",
+  "url": "https://mlaiinsightshub.blog/heat-exchangers-types-and-sizing-lmtd-ntu/",
+  "tag": "Automotive Thermal Systems: Cooling, Heating & Energy Management"
+ },
+ {
   "title": "Factor of Safety and Stress-Strain Curve: Worked Examples",
   "date": "2026-11-10",
   "url": "https://mlaiinsightshub.blog/stress-strain-factor-of-safety-worked-examples/",
@@ -28,11 +34,5 @@
   "date": "2026-10-29",
   "url": "https://mlaiinsightshub.blog/free-ai-tools-for-mechanical-engineers/",
   "tag": "Artificial Intelligence"
- },
- {
-  "title": "Predictive Maintenance in Python: Detect Bearing Faults Step by Step",
-  "date": "2026-10-27",
-  "url": "https://mlaiinsightshub.blog/predictive-maintenance-python-bearing-fault-detection/",
-  "tag": "Machine Learning"
  }
 ]
